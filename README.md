@@ -1,2 +1,9 @@
-# liberty-nd-cheatsheet
-A collection of docs which will provide a cheat sheet style guide to Liberty ND in the context of WAS traditional ND
+# Liberty ND Cheatsheet
+
+New to WebSphere Liberty? This [cheatsheet](Cheatsheet.md) and the rest of the docs should help with common questions about WebSphere Liberty, the differences from traditional WebSphere and common operations.
+
+## Guide
+* [Cheatsheet](Cheatsheet.md)
+* [Links](Links.md)
+
+I hope you find this helpful.
