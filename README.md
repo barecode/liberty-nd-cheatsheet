@@ -7,4 +7,6 @@ New to WebSphere Liberty? This [cheatsheet](Cheatsheet.md) and the rest of the d
 * [CapabilityTable](CapabilityTable.md)
 * [Links](Links.md)
 
+This is not a replacement for official IBM documentation. I provide links to the official documentation as appropriate. If you have thoughts on how to improve this or what could be better, open an Issue.
+
 I hope you find this helpful.
