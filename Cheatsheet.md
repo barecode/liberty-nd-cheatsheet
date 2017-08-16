@@ -3,18 +3,18 @@
 ## Terminology Mapping
 ### traditional WebSphere to Liberty
 
+```
 Cell -> Collective
 Deployment Manager (DMgr) -> Collective Controller
 Federated Node -> Host
 Federated Server -> Collective Member
-Job Manager -> N/A (although you can use the Job Manager to manage Liberty)
-Admin Agent -> N/A (no management of Liberty provided)
+Job Manager -> N/A (Job Manager can manage Liberty)
+Admin Agent -> N/A (Admin Agent can not manage Liberty)
 Session Replicaiton: Memory-to-Memory -> N/A
-Session Replication: Database -> Supported! [tutorial]
-Session Replication: WebSphere eXtreme Scale (WXS) -> Supported! [tutorial] 
-Transactions -> ???
-EJB failover -> ???
-What else Mike?!
+Session Replication: Database -> Supported! [tutorial coming soon]
+Session Replication: WebSphere eXtreme Scale (WXS) -> Supported! [tutorial coming soon]
+```
+
 
 ## Conceptual Differences
 
