@@ -4,6 +4,7 @@ New to WebSphere Liberty? This [cheatsheet](Cheatsheet.md) and the rest of the d
 
 ## Guide
 * [Cheatsheet](Cheatsheet.md)
+* [CapabilityTable](CapabilityTable.md)
 * [Links](Links.md)
 
 I hope you find this helpful.
